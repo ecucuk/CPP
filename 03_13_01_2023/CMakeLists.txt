@@ -2,10 +2,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Proje adı
-project(01_09_01_2023)
-
-message(STATUS "Proje dizini: ${CMAKE_SOURCE_DIR}"
-        " | Çalışma dizini: ${CMAKE_BINARY_DIR}")
+project(02_13_01_2023)
 
 # C++17 standardını kullan
 set(CMAKE_CXX_STANDARD 17)
